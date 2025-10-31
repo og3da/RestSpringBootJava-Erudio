@@ -1,1 +1,2 @@
 spring.application.name=RestSpringBootJava-Erudio
+management.endpoints.web.exposure.include=*
